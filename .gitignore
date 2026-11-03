@@ -1,0 +1,25 @@
+# Python environments and caches
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and runtime data
+.env
+.env.*
+!.env.example
+chroma_db/
+reports/
+webpilot_checkpoints.db*
+generated_plan.json
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+*.log

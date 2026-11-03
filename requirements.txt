@@ -1,0 +1,9 @@
+fastapi==0.162.0
+uvicorn==0.54.0
+pydantic==2.14.2
+langgraph==1.2.19
+mcp==2.3.0
+requests==2.34.2
+playwright==1.64.1
+sentence-transformers==6.2.0
+chromadb==1.5.9
